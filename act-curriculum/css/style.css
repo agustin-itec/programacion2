@@ -11,6 +11,10 @@ body{
     font-style: normal;
 }
 
+main{
+    margin-left: 10px;
+}
+
 nav{
     padding: 0.2rem 1rem;
 }
