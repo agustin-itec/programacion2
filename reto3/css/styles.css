@@ -106,7 +106,7 @@ nav a:hover{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 5px;
     padding: 150px;
     padding-left: 90px;
     padding-right: 90px;
